@@ -1,1 +1,34 @@
 /* Stylesheet */
+body {
+        background: #000;
+}
+
+header {
+      font-family: 'Coda Caption', sans-serif;
+}
+p, h3 {font-family: 'Coda Caption', sans-serif;
+
+}
+h3 {
+	text-transform: uppercase;
+}
+
+nav {
+      
+}
+
+blockquote {
+      
+}
+
+footer {
+      
+}
+
+section {
+     
+}
+
+.container_12 {
+        background: #FFF;
+}
